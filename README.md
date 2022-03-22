@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **MERN E-Commerce**
 
-- 👨‍💻 All of my projects are available at [https://anirban-majumdar-97.vercel.app/](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://anirban-majumdar-97.vercel.app/)
 
 - 📫 How to reach me **anirban.majumdar.97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zGYe7wYaB1hRlVi-VVLiSB_NmtrRFd8W/view](https://drive.google.com/file/d/1zGYe7wYaB1hRlVi-VVLiSB_NmtrRFd8W/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zGYe7wYaB1hRlVi-VVLiSB_NmtrRFd8W/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
