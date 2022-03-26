@@ -51,11 +51,11 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/anirban-k-majumdar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/jackmadnessplay"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/anirban__majumdar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC40jKRZFU44Du3cIkNDJXrw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href="https://discord.gg/jackmadnessplay#8333" ><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" alt="jackmadnessplay#8333"  /></a>
+<a href = "https://www.linkedin.com/in/anirban-k-majumdar/"target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/jackmadnessplay"target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/anirban__majumdar/"target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC40jKRZFU44Du3cIkNDJXrw"target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href="https://discord.gg/jackmadnessplay#8333"target="_blank" ><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" alt="jackmadnessplay#8333"  /></a>
 
 </p>
 
