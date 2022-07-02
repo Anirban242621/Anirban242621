@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anirban</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Anirban</h1>
 <h3 align="center">I am a Web Developer and System Administrator with good problem-solving skills and proven experience in creating and designing applications in a test-driven environment.</h3>
 
 ## 🙋‍♂️ About Me
